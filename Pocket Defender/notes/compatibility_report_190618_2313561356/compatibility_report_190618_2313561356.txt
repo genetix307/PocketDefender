@@ -1,0 +1,295 @@
+Converting GML script: ${project_dir}\scripts\gen_wave_auto\gen_wave_auto.gml
+Converted description /// @description Procedural Wave Generation
+
+Converting GML script: ${project_dir}\scripts\load_game\load_game.gml
+Converted string - line 2: 'savegame.ini' -> "savegame.ini"
+Converted string - line 4: 'save1' -> "save1"
+Converted string - line 4: 'day' -> "day"
+Converted string - line 5: 'save1' -> "save1"
+Converted string - line 5: 'coins' -> "coins"
+Converted string - line 6: 'save1' -> "save1"
+Converted string - line 6: 'attack' -> "attack"
+Converted string - line 7: 'save1' -> "save1"
+Converted string - line 7: 'reload' -> "reload"
+Converted string - line 8: 'save1' -> "save1"
+Converted string - line 8: 'knockback' -> "knockback"
+Converted string - line 9: 'save1' -> "save1"
+Converted string - line 9: 'critical' -> "critical"
+Converted string - line 10: 'save1' -> "save1"
+Converted string - line 10: 'max_hp' -> "max_hp"
+Converted string - line 11: 'save1' -> "save1"
+Converted string - line 11: 'max_mp' -> "max_mp"
+Converted string - line 12: 'save1' -> "save1"
+Converted string - line 12: 'arrows' -> "arrows"
+Converted string - line 13: 'save1' -> "save1"
+Converted string - line 13: 'turret_north_level' -> "turret_north_level"
+Converted string - line 14: 'save1' -> "save1"
+Converted string - line 14: 'turret_south_level' -> "turret_south_level"
+Converted string - line 15: 'save1' -> "save1"
+Converted string - line 15: 'regen_mp' -> "regen_mp"
+Converted string - line 16: 'save1' -> "save1"
+Converted string - line 16: 'regen_hp' -> "regen_hp"
+Converted string - line 17: 'save1' -> "save1"
+Converted string - line 17: 'ice_cost' -> "ice_cost"
+Converted string - line 18: 'save1' -> "save1"
+Converted string - line 18: 'ice_damage' -> "ice_damage"
+Converted string - line 19: 'save1' -> "save1"
+Converted string - line 19: 'ice_time' -> "ice_time"
+Converted string - line 20: 'save1' -> "save1"
+Converted string - line 20: 'fire_cost' -> "fire_cost"
+Converted string - line 21: 'save1' -> "save1"
+Converted string - line 21: 'fire_damage' -> "fire_damage"
+Converted string - line 22: 'save1' -> "save1"
+Converted string - line 22: 'fire_time' -> "fire_time"
+Converted string - line 23: 'save1' -> "save1"
+Converted string - line 23: 'lightning_cost' -> "lightning_cost"
+Converted string - line 24: 'save1' -> "save1"
+Converted string - line 24: 'lightning_damage' -> "lightning_damage"
+Converted string - line 25: 'save1' -> "save1"
+Converted string - line 25: 'lightning_time' -> "lightning_time"
+Converted string - line 26: 'save1' -> "save1"
+Converted string - line 26: 'upgrade_attack_cost' -> "upgrade_attack_cost"
+Converted string - line 27: 'save1' -> "save1"
+Converted string - line 27: 'upgrade_speed_cost' -> "upgrade_speed_cost"
+Converted string - line 28: 'save1' -> "save1"
+Converted string - line 28: 'upgrade_knockback_cost' -> "upgrade_knockback_cost"
+Converted string - line 29: 'save1' -> "save1"
+Converted string - line 29: 'upgrade_critical_cost' -> "upgrade_critical_cost"
+Converted string - line 30: 'save1' -> "save1"
+Converted string - line 30: 'upgrade_arrows_cost' -> "upgrade_arrows_cost"
+Converted string - line 31: 'save1' -> "save1"
+Converted string - line 31: 'upgrade_max_mp_cost' -> "upgrade_max_mp_cost"
+Converted string - line 32: 'save1' -> "save1"
+Converted string - line 32: 'upgrade_mpregen_cost' -> "upgrade_mpregen_cost"
+Converted string - line 33: 'save1' -> "save1"
+Converted string - line 33: 'upgrade_fire_cost' -> "upgrade_fire_cost"
+Converted string - line 34: 'save1' -> "save1"
+Converted string - line 34: 'upgrade_ice_cost' -> "upgrade_ice_cost"
+Converted string - line 35: 'save1' -> "save1"
+Converted string - line 35: 'upgrade_lightning_cost' -> "upgrade_lightning_cost"
+Converted string - line 36: 'save1' -> "save1"
+Converted string - line 36: 'upgrade_max_hp_cost' -> "upgrade_max_hp_cost"
+Converted string - line 37: 'save1' -> "save1"
+Converted string - line 37: 'upgrade_hpregen_cost' -> "upgrade_hpregen_cost"
+Converted string - line 38: 'save1' -> "save1"
+Converted string - line 38: 'upgrade_northturret_cost' -> "upgrade_northturret_cost"
+Converted string - line 39: 'save1' -> "save1"
+Converted string - line 39: 'upgrade_southturret_cost' -> "upgrade_southturret_cost"
+Converted string - line 40: 'save1' -> "save1"
+Converted string - line 40: 'max_frame' -> "max_frame"
+Converted string - line 41: 'save1' -> "save1"
+Converted string - line 41: 'frame_chance' -> "frame_chance"
+Converted string - line 42: 'save1' -> "save1"
+Converted string - line 42: 'max_dp' -> "max_dp"
+Converted string - line 43: 'save1' -> "save1"
+Converted string - line 43: 'current_chapter' -> "current_chapter"
+
+Converting GML script: ${project_dir}\scripts\save_game\save_game.gml
+Converted string - line 2: 'savegame.ini' -> "savegame.ini"
+Converted string - line 4: 'save1' -> "save1"
+Converted string - line 4: 'day' -> "day"
+Converted string - line 5: 'save1' -> "save1"
+Converted string - line 5: 'coins' -> "coins"
+Converted string - line 6: 'save1' -> "save1"
+Converted string - line 6: 'attack' -> "attack"
+Converted string - line 7: 'save1' -> "save1"
+Converted string - line 7: 'reload' -> "reload"
+Converted string - line 8: 'save1' -> "save1"
+Converted string - line 8: 'knockback' -> "knockback"
+Converted string - line 9: 'save1' -> "save1"
+Converted string - line 9: 'critical' -> "critical"
+Converted string - line 10: 'save1' -> "save1"
+Converted string - line 10: 'max_hp' -> "max_hp"
+Converted string - line 11: 'save1' -> "save1"
+Converted string - line 11: 'max_mp' -> "max_mp"
+Converted string - line 12: 'save1' -> "save1"
+Converted string - line 12: 'arrows' -> "arrows"
+Converted string - line 13: 'save1' -> "save1"
+Converted string - line 13: 'turret_north_level' -> "turret_north_level"
+Converted string - line 14: 'save1' -> "save1"
+Converted string - line 14: 'turret_south_level' -> "turret_south_level"
+Converted string - line 15: 'save1' -> "save1"
+Converted string - line 15: 'regen_mp' -> "regen_mp"
+Converted string - line 16: 'save1' -> "save1"
+Converted string - line 16: 'regen_hp' -> "regen_hp"
+Converted string - line 17: 'save1' -> "save1"
+Converted string - line 17: 'ice_cost' -> "ice_cost"
+Converted string - line 18: 'save1' -> "save1"
+Converted string - line 18: 'ice_damage' -> "ice_damage"
+Converted string - line 19: 'save1' -> "save1"
+Converted string - line 19: 'ice_time' -> "ice_time"
+Converted string - line 20: 'save1' -> "save1"
+Converted string - line 20: 'fire_cost' -> "fire_cost"
+Converted string - line 21: 'save1' -> "save1"
+Converted string - line 21: 'fire_damage' -> "fire_damage"
+Converted string - line 22: 'save1' -> "save1"
+Converted string - line 22: 'fire_time' -> "fire_time"
+Converted string - line 23: 'save1' -> "save1"
+Converted string - line 23: 'lightning_cost' -> "lightning_cost"
+Converted string - line 24: 'save1' -> "save1"
+Converted string - line 24: 'lightning_damage' -> "lightning_damage"
+Converted string - line 25: 'save1' -> "save1"
+Converted string - line 25: 'lightning_time' -> "lightning_time"
+Converted string - line 26: 'save1' -> "save1"
+Converted string - line 26: 'upgrade_attack_cost' -> "upgrade_attack_cost"
+Converted string - line 27: 'save1' -> "save1"
+Converted string - line 27: 'upgrade_speed_cost' -> "upgrade_speed_cost"
+Converted string - line 28: 'save1' -> "save1"
+Converted string - line 28: 'upgrade_knockback_cost' -> "upgrade_knockback_cost"
+Converted string - line 29: 'save1' -> "save1"
+Converted string - line 29: 'upgrade_critical_cost' -> "upgrade_critical_cost"
+Converted string - line 30: 'save1' -> "save1"
+Converted string - line 30: 'upgrade_arrows_cost' -> "upgrade_arrows_cost"
+Converted string - line 31: 'save1' -> "save1"
+Converted string - line 31: 'upgrade_max_mp_cost' -> "upgrade_max_mp_cost"
+Converted string - line 32: 'save1' -> "save1"
+Converted string - line 32: 'upgrade_mpregen_cost' -> "upgrade_mpregen_cost"
+Converted string - line 33: 'save1' -> "save1"
+Converted string - line 33: 'upgrade_fire_cost' -> "upgrade_fire_cost"
+Converted string - line 34: 'save1' -> "save1"
+Converted string - line 34: 'upgrade_ice_cost' -> "upgrade_ice_cost"
+Converted string - line 35: 'save1' -> "save1"
+Converted string - line 35: 'upgrade_lightning_cost' -> "upgrade_lightning_cost"
+Converted string - line 36: 'save1' -> "save1"
+Converted string - line 36: 'upgrade_max_hp_cost' -> "upgrade_max_hp_cost"
+Converted string - line 37: 'save1' -> "save1"
+Converted string - line 37: 'upgrade_hpregen_cost' -> "upgrade_hpregen_cost"
+Converted string - line 38: 'save1' -> "save1"
+Converted string - line 38: 'upgrade_northturret_cost' -> "upgrade_northturret_cost"
+Converted string - line 39: 'save1' -> "save1"
+Converted string - line 39: 'upgrade_southturret_cost' -> "upgrade_southturret_cost"
+Converted string - line 40: 'save1' -> "save1"
+Converted string - line 40: 'max_frame' -> "max_frame"
+Converted string - line 41: 'save1' -> "save1"
+Converted string - line 41: 'frame_chance' -> "frame_chance"
+Converted string - line 42: 'save1' -> "save1"
+Converted string - line 42: 'max_dp' -> "max_dp"
+Converted string - line 43: 'save1' -> "save1"
+Converted string - line 43: 'current_chapter' -> "current_chapter"
+
+!!! Font font_hud uses a font (Arial Black) not installed on this system - Font has NOT been regenerated
+!!! Font font_results font family Baskerville Old Face is installed but couldn't match style - Font has NOT been regenerated
+Font font_banner has been converted to font family Berlin Sans FB Demi (Bold) - Font has been regenerated, small inconsistencies may occur
+Font font_dialogue has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\hud\Alarm_4.gml
+Converted description /// @description Game Over
+
+Converting GML script: ${project_dir}\objects\hud\Alarm_2.gml
+Converted description /// @description Day Completed
+
+Converting GML script: ${project_dir}\objects\chapter_01\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_02\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_03\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_bridge -> __background_set( e__BG.Index, 0, bg_bridge )
+
+Converting GML script: ${project_dir}\objects\chapter_04\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_05\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_06\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_bridge -> __background_set( e__BG.Index, 0, bg_bridge )
+
+Converting GML script: ${project_dir}\objects\chapter_07\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_08\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_09\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_10\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_night -> __background_set( e__BG.Index, 0, bg_night )
+
+Converting GML script: ${project_dir}\objects\chapter_11\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_12\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_13\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_14\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_15\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_16\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_bridge -> __background_set( e__BG.Index, 0, bg_bridge )
+
+Converting GML script: ${project_dir}\objects\chapter_17\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_18\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_19\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_bridge -> __background_set( e__BG.Index, 0, bg_bridge )
+
+Converting GML script: ${project_dir}\objects\chapter_19\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+Converted builtin - line 4: background_index[0] = bg_tavern -> __background_set( e__BG.Index, 0, bg_tavern )
+
+Converting GML script: ${project_dir}\objects\chapter_20\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_forest_home -> __background_set( e__BG.Index, 0, bg_forest_home )
+
+Converting GML script: ${project_dir}\objects\chapter_21\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_night -> __background_set( e__BG.Index, 0, bg_night )
+
+Converting GML script: ${project_dir}\objects\chapter_22\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_night -> __background_set( e__BG.Index, 0, bg_night )
+
+Converting GML script: ${project_dir}\objects\chapter_23\Create_0.gml
+Converted builtin - line 5: background_index[0] = bg_night -> __background_set( e__BG.Index, 0, bg_night )
+
+Converting GML script: ${project_dir}\rooms\myroom_main\RoomCreationCode.gml
+Converted builtin - line 1: background_index[0] = bg_grass_winter -> __background_set( e__BG.Index, 0, bg_grass_winter )
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sfx_arrow' - setting to default audio group
+Missing audiogroup for sound: 'sfx_clank' - setting to default audio group
+Missing audiogroup for sound: 'sfx_hit' - setting to default audio group
+Missing audiogroup for sound: 'sfx_ice' - setting to default audio group
+Missing audiogroup for sound: 'sfx_fire' - setting to default audio group
+Missing audiogroup for sound: 'sfx_lightning' - setting to default audio group
+Missing audiogroup for sound: 'sfx_click' - setting to default audio group
+Missing audiogroup for sound: 'sfx_mushroom' - setting to default audio group
+Missing audiogroup for sound: 'sfx_splatter' - setting to default audio group
+Missing audiogroup for sound: 'sfx_warning' - setting to default audio group
+Missing audiogroup for sound: 'sfx_thud' - setting to default audio group
+Missing audiogroup for sound: 'sfx_upgrade' - setting to default audio group
+Missing audiogroup for sound: 'bgm_battle_a' - setting to default audio group
+Missing audiogroup for sound: 'bgm_battle_b' - setting to default audio group
+Missing audiogroup for sound: 'bgm_boss' - setting to default audio group
+Missing audiogroup for sound: 'bgm_boss_final' - setting to default audio group
+Missing audiogroup for sound: 'bgm_battle_c' - setting to default audio group
+Missing audiogroup for sound: 'bgm_battle_d' - setting to default audio group
+Missing audiogroup for sound: 'bgm_battle_e' - setting to default audio group
+Missing audiogroup for sound: 'bgm_menu' - setting to default audio group
+Missing audiogroup for sound: 'bgm_title' - setting to default audio group
+Missing audiogroup for sound: 'bgm_victory' - setting to default audio group
+Missing audiogroup for sound: 'sfx_bird' - setting to default audio group
+Missing audiogroup for sound: 'bgm_genetix' - setting to default audio group
+Missing audiogroup for sound: 'sfx_genetix' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'
