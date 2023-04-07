@@ -1,16 +1,17 @@
-draw_set_font(font_hud)
-
 if store.paused = 1 { //Draw Pause Shadow
 draw_set_color(c_black)
 draw_set_alpha(.5)
 draw_rectangle(0,0,room_width,room_height,false)
 draw_set_alpha(1)
 
+if instance_number(default_tutorial)<=0 {
 draw_set_color(c_white)
 draw_set_font(font_banner)
-draw_text(381,80,"Game Paused")
+draw_text(380,60,"Game Paused")
+}
 }
 
+draw_set_font(font_hud)
 draw_rectangle_colour(0,0,204,12,c_black,c_dkgray,c_black,c_dkgray,false)
 draw_rectangle_colour(2,2,2+((store.hp/store.max_hp)*200),10,c_red,c_maroon,c_red,c_maroon,false)
 draw_text_colour(8,-1,string_hash_to_newline("HP "+string(store.hp) +" / " +string(store.max_hp)),c_black,c_black,c_black,c_black,1)
@@ -42,7 +43,7 @@ draw_set_alpha(.7)
 draw_set_font(font_banner)
 draw_rectangle(0,200,room_width,280,false)
 draw_set_color(c_yellow)
-draw_text(389,218,string_hash_to_newline("Day "+string(store.day)))
+draw_text(390,218,string_hash_to_newline("Day "+string(store.day)))
 draw_set_alpha(1)
 }
 

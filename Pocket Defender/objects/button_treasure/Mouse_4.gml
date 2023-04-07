@@ -1,0 +1,1 @@
+store.coins +=200

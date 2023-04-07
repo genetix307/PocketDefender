@@ -1,4 +1,3 @@
-/// @description Regen
 alarm[3] = store.regen_hp
 
 if store.paused = 0 {

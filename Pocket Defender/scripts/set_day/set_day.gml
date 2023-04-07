@@ -9,9 +9,7 @@ function set_day() {
 	store.bonus_combo = 0
 	store.bonus_total = 0
 
-	if store.day <6 {
-	store.hp = store.max_hp
+	if store.day<6 {store.hp = store.max_hp}
 	store.mp = store.max_mp
-	}
 
 }
