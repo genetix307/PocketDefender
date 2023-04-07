@@ -5,6 +5,10 @@ draw_set_color(c_black)
 draw_set_alpha(.5)
 draw_rectangle(0,0,room_width,room_height,false)
 draw_set_alpha(1)
+
+draw_set_color(c_white)
+draw_set_font(font_banner)
+draw_text(381,80,"Game Paused")
 }
 
 draw_rectangle_colour(0,0,204,12,c_black,c_dkgray,c_black,c_dkgray,false)
@@ -38,7 +42,7 @@ draw_set_alpha(.7)
 draw_set_font(font_banner)
 draw_rectangle(0,200,room_width,280,false)
 draw_set_color(c_yellow)
-draw_text(336,218,string_hash_to_newline("Day "+string(store.day)))
+draw_text(389,218,string_hash_to_newline("Day "+string(store.day)))
 draw_set_alpha(1)
 }
 
@@ -50,7 +54,7 @@ draw_set_alpha(.7)
 draw_set_font(font_banner)
 draw_rectangle(0,200,room_width,280,false)
 draw_set_color(c_yellow)
-draw_text(300,218,string_hash_to_newline("Day Survived"))
+draw_text(375,218,string_hash_to_newline("Day Survived"))
 draw_set_alpha(1)
 }
 
@@ -63,7 +67,7 @@ draw_set_alpha(.7)
 draw_set_font(font_banner)
 draw_rectangle(0,200,room_width,280,false)
 draw_set_color(c_red)
-draw_text(300,218,string_hash_to_newline("Game Over"))
+draw_text(380,218,string_hash_to_newline("Game Over"))
 draw_set_alpha(1)
 }
 //Show Warning Banner
@@ -74,10 +78,9 @@ draw_set_alpha(.7)
 draw_set_font(font_banner)
 draw_rectangle(0,200,room_width,280,false)
 draw_set_color(c_orange)
-draw_text(300,218,string_hash_to_newline("Warning!"))
+draw_text(380,218,string_hash_to_newline("Warning!"))
 draw_set_alpha(1)
 }
-
 
 //Draw White flash
 if show_flash > 0

@@ -24,9 +24,5 @@ if store.day = 100 {room = myroom_chapter_14 exit} //Tavern night before final b
 if store.day = 101 {room = myroom_chapter_19 exit} //After Final Boss
 if store.day = 102 {room = myroom_chapter_22 exit} //Vance Returns
 
-if store.day > 5 and store.day <= 10{if 4 > random(10) {MoPub_ShowInterstitial();}}
-if store.day > 10 and store.day <= 20 {if 5 > random(10) {MoPub_ShowInterstitial();}}
-if store.day > 20 and store.day < 30 {if 6 > random(10) {MoPub_ShowInterstitial();}}
-if store.day >= 30 {if 8 > random(10) {MoPub_ShowInterstitial();}}
 room = myroom_upgrades
 

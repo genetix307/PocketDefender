@@ -6,3 +6,5 @@ instance_destroy()
 action_effect(8, 0, 0, 1, 255, 1);
 action_effect(1, 0, 0, 0, 8421504, 0);
 action_set_relative(0);
+
+instance_create_depth(x,y,depth-5,show_small_hit)
