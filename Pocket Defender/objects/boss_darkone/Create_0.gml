@@ -6,7 +6,8 @@ my_attack = 25
 my_coins = 1000
 alarm[0] = my_reload
 damaged = 0
-max_hp = 4500
+max_hp = 5000 +(store.day*25)
+if store.day>10 {max_hp+=store.win_streak*50}
 hp = max_hp
 throwback = 0
 audio_stop_all()

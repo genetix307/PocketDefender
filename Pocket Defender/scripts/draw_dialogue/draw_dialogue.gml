@@ -11,6 +11,4 @@ function draw_dialogue() {
 	draw_text_ext_colour(16,24,string_hash_to_newline(dialogue),24,775,c_white,c_silver,c_white,c_silver,1)
 	}
 
-
-
 }

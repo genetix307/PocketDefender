@@ -7,6 +7,7 @@ if complete = 1 and instance_number(default_enemy) = 0
 store.max_dp += 1.25
 store.lose_streak = 0
 store.bonus_attack = 0
+if store.day>10 {store.win_streak+=1}
 
 audio_stop_all()
 audio_play_sound(bgm_victory,1,false)

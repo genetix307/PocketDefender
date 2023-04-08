@@ -24,3 +24,5 @@ if store.day > 25 and time = greenmushkin_charge_time
 if greenmushkin_charge > random(100) { gen_greenmushkin_charge()}
 }
 
+//Make Fog
+repeat 4 instance_create(945+random(15),126+random(350),fog_cloud)

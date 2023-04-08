@@ -42,6 +42,11 @@ function save_game() {
 	ini_write_real( "save1", "frame_chance", store.frame_chance);
 	ini_write_real( "save1", "max_dp", store.max_dp);
 	ini_write_real( "save1", "current_chapter", store.current_chapter);
+	ini_write_real( "save1", "bonus_discord", store.bonus_discord);
+	ini_write_real( "save1", "master_volume", store.master_volume);
+	
+	//Codes
+	ini_write_real( "save1", "code_payday", store.code_payday);
 
 	ini_close();
 

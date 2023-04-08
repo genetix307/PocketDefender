@@ -7,6 +7,7 @@ my_coins = 3 + (store.day/30)
 alarm[0] = my_reload
 damaged = 0
 max_hp = 17 + (store.day/4)
+if store.day>10 {max_hp+=store.win_streak}
 hp = max_hp
 store.dp -= 2.5
 

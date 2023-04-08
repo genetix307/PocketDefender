@@ -24,7 +24,7 @@ function load_game() {
 	store.lightning_cost = ini_read_real( "save1", "lightning_cost",30);
 	store.lightning_damage = ini_read_real( "save1", "lightning_damage",20);
 	store.lightning_time = ini_read_real( "save1", "lightning_time",240);
-	store.upgrade_attack_cost = ini_read_real( "save1", "upgrade_attack_cost",300);
+	store.upgrade_attack_cost = ini_read_real( "save1", "upgrade_attack_cost",store.upgrade_attack_cost);
 	store.upgrade_speed_cost = ini_read_real( "save1", "upgrade_speed_cost",300);
 	store.upgrade_knockback_cost = ini_read_real( "save1", "upgrade_knockback_cost",300);
 	store.upgrade_critical_cost = ini_read_real( "save1", "upgrade_critical_cost",300);
@@ -42,9 +42,12 @@ function load_game() {
 	store.frame_chance = ini_read_real( "save1", "frame_chance",66);
 	store.max_dp = ini_read_real( "save1", "max_dp",93);
 	store.current_chapter = ini_read_real( "save1", "current_chapter",1);
+	store.bonus_discord = ini_read_real( "save1", "bonus_discord",0);
+	store.master_volume = ini_read_real( "save1", "master_volume",1);
+	
+	//Bonus Codes
+	store.code_payday = ini_read_real( "save1", "code_payday",store.code_payday);
 
 	ini_close();
-
-
 
 }

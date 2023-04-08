@@ -30,7 +30,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu",
-    "path": "folders/Objects/Menu.yy",
+    "name": "In Game",
+    "path": "folders/Objects/Menu/In Game.yy",
   },
 }

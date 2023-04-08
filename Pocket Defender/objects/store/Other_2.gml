@@ -1,4 +1,5 @@
 randomize()
+ads_init()
 
 day = 1
 coins = 0
@@ -7,7 +8,13 @@ total_shots = 0
 missed_shots = 0
 master_volume = 1
 lose_streak = 0
+win_streak = 0
 bonus_attack = 0
+bonus_discord = 0
+gold_chest_cooldown =0
+
+//Bonus Codes
+code_payday = 0
 
 attack = 10
 reload = 33

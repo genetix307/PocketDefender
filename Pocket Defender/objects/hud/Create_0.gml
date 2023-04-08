@@ -24,6 +24,7 @@ bonus_orc = random(25)
 bonus_wizardred = random(25)
 //bonus_wizardblack = random(25)
 
+store.gold_chest_cooldown =0
 game_over = 0
 play_battle_bgm()
 

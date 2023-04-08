@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "button_sound",
   "spriteId": {
-    "name": "spr_button_sound",
-    "path": "sprites/spr_button_sound/spr_button_sound.yy",
+    "name": "btn_small_tab",
+    "path": "sprites/btn_small_tab/btn_small_tab.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,11 +27,13 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":73,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu",
-    "path": "folders/Objects/Menu.yy",
+    "name": "Settings",
+    "path": "folders/Objects/Menu/Settings.yy",
   },
 }

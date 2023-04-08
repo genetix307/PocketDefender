@@ -8,6 +8,7 @@ alarm[0] = my_reload
 damaged = 0
 max_hp = 120 + (store.day/4)
 if store.day > 40 {max_hp += store.day/5}
+if store.day>10 {max_hp+=store.win_streak}
 hp = max_hp
 store.dp -= 5
 

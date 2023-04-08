@@ -7,7 +7,7 @@ draw_set_alpha(1)
 if instance_number(default_tutorial)<=0 {
 draw_set_color(c_white)
 draw_set_font(font_banner)
-draw_text(380,60,"Game Paused")
+draw_text(333,60,"Game Paused")
 }
 }
 

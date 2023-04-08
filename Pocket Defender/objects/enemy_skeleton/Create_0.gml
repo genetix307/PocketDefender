@@ -10,6 +10,7 @@ max_hp = 17 + (store.day/4)
 if store.day > 30 {max_hp = 20 + (store.day/3.5)}
 if store.day > 50 {max_hp = 30 + (store.day/3)}
 if store.day > 70 {max_hp = 40 + (store.day/2.75)}
+if store.day>10 {max_hp+=store.win_streak}
 hp = max_hp
 store.dp -= 2
 

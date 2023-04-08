@@ -36,6 +36,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Tutorial",
-    "path": "folders/Objects/Menu/Tutorial.yy",
+    "path": "folders/Objects/Menu/In Game/Tutorial.yy",
   },
 }
