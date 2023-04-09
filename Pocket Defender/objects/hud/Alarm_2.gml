@@ -4,6 +4,7 @@ store.hp = round(store.hp)
 
 if complete = 1 and instance_number(default_enemy) = 0
 {
+ad_load_interstitial()
 store.max_dp += 1.25
 store.lose_streak = 0
 store.bonus_attack = 0

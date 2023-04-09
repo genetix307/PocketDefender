@@ -37,6 +37,7 @@
     {"id":{"name":"sp_dead_ogre","path":"sprites/sp_dead_ogre/sp_dead_ogre.yy",},"order":18,},
     {"id":{"name":"spr_dead_megaogre","path":"sprites/spr_dead_megaogre/spr_dead_megaogre.yy",},"order":19,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":20,},
+    {"id":{"name":"show_version","path":"objects/show_version/show_version.yy",},"order":6,},
     {"id":{"name":"spr_turret","path":"sprites/spr_turret/spr_turret.yy",},"order":21,},
     {"id":{"name":"spr_enemy_skeleton","path":"sprites/spr_enemy_skeleton/spr_enemy_skeleton.yy",},"order":22,},
     {"id":{"name":"spr_atk_skeleton","path":"sprites/spr_atk_skeleton/spr_atk_skeleton.yy",},"order":23,},
