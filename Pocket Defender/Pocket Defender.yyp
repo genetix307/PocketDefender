@@ -454,6 +454,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Environment","folderPath":"folders/Sprites/Environment.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"In Game","folderPath":"folders/Sprites/In Game.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/Sprites/Menu.yy","order":2,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"In Game","folderPath":"folders/Sprites/Menu/In Game.yy","order":40,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Settings","folderPath":"folders/Sprites/Menu/Settings.yy","order":38,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tutorial","folderPath":"folders/Sprites/Menu/tutorial.yy","order":29,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Upgrade","folderPath":"folders/Sprites/Menu/Upgrade.yy","order":28,},
@@ -461,7 +462,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Splash","folderPath":"folders/Sprites/Splash.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Story","folderPath":"folders/Sprites/Story.yy","order":5,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/Sprites/tilesets.yy","order":6,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"In Game","folderPath":"folders/Sprites/Menu/In Game.yy","order":40,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},

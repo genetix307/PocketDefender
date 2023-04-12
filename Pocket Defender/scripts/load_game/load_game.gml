@@ -47,6 +47,7 @@ function load_game() {
 	
 	//Bonus Codes
 	store.code_payday = ini_read_real( "save1", "code_payday",store.code_payday);
+	store.code_happy = ini_read_real( "save1", "code_happy",store.code_happy);
 
 	ini_close();
 

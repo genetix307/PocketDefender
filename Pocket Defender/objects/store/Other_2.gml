@@ -1,7 +1,7 @@
 randomize()
 ads_init()
 
-version="version 1.03"
+version="version 1.04"
 day = 1
 coins = 0
 paused = 0
@@ -16,6 +16,7 @@ gold_chest_cooldown =0
 
 //Bonus Codes
 code_payday = 0
+code_happy=0
 
 attack = 10
 reload = 33

@@ -1,6 +1,6 @@
 upgrade = ""
 description = ""
-cost = ""
+cost = "0"
 current_value = ""
 next_value = ""
 
