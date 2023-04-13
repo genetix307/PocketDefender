@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "btn_link_zint",
+  "name": "chest_endgame",
   "spriteId": {
-    "name": "spr_zombies_ad",
-    "path": "sprites/spr_zombies_ad/spr_zombies_ad.yy",
+    "name": "spr_chest",
+    "path": "sprites/spr_chest/spr_chest.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,13 +26,12 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":73,"eventType":8,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Settings",
-    "path": "folders/Objects/Menu/Settings.yy",
+    "name": "In Game",
+    "path": "folders/Objects/Menu/In Game.yy",
   },
 }

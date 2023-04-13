@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "btn_link_zint",
+  "name": "btn_continue",
   "spriteId": {
-    "name": "spr_zombies_ad",
-    "path": "sprites/spr_zombies_ad/spr_zombies_ad.yy",
+    "name": "btn_small_tab",
+    "path": "sprites/btn_small_tab/btn_small_tab.yy",
   },
   "solid": false,
   "visible": true,
@@ -32,7 +32,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Settings",
-    "path": "folders/Objects/Menu/Settings.yy",
+    "name": "In Game",
+    "path": "folders/Objects/Menu/In Game.yy",
   },
 }

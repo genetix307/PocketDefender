@@ -1,3 +1,4 @@
+audio_play_sound(sfx_click,1,false)
 store.day += 1
 
 save_game()
