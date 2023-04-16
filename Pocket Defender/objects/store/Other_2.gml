@@ -1,7 +1,7 @@
 randomize()
 ads_init()
 
-version="version 1.05"
+version="version 1.06"
 day = 1
 coins = 0
 paused = 0
