@@ -444,6 +444,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Environment","folderPath":"folders/Objects/Environment.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"arrows","folderPath":"folders/Objects/Environment/arrows.yy","order":9,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/Objects/Menu.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Bestiary","folderPath":"folders/Objects/Menu/Bestiary.yy","order":10,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"In Game","folderPath":"folders/Objects/Menu/In Game.yy","order":9,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tutorial","folderPath":"folders/Objects/Menu/In Game/Tutorial.yy","order":5,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Settings","folderPath":"folders/Objects/Menu/Settings.yy","order":7,},
@@ -476,7 +477,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Splash","folderPath":"folders/Sprites/Splash.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Story","folderPath":"folders/Sprites/Story.yy","order":5,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/Sprites/tilesets.yy","order":6,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Bestiary","folderPath":"folders/Objects/Menu/Bestiary.yy","order":10,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},

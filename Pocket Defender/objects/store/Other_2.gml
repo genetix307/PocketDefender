@@ -17,6 +17,7 @@ gold_chest_cooldown =0
 //Bonus Codes
 code_payday = 0
 code_happy=0
+code_magic=0
 
 attack = 10
 reload = 33

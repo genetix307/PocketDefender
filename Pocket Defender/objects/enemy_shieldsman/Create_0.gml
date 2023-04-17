@@ -1,12 +1,12 @@
 image_speed = .15
 my_range = 64
-my_speed = .65  + (store.day/260)
+my_speed = .60  + (store.day/260)
 my_reload = 45
 my_attack = 5 + (store.day/10)
 my_coins = 8 + (store.day/15)
 alarm[0] = my_reload
 damaged = 0
-max_hp = 120 + (store.day/4)
+max_hp = 135 + (store.day/4)
 if store.day > 40 {max_hp += store.day/5}
 if store.day>10 {max_hp+=store.win_streak}
 hp = max_hp

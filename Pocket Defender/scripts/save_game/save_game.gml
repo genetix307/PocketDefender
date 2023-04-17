@@ -48,6 +48,7 @@ function save_game() {
 	//Codes
 	ini_write_real( "save1", "code_payday", store.code_payday);
 	ini_write_real( "save1", "code_happy", store.code_happy);
+	ini_write_real( "save1", "code_magic", store.code_magic);
 
 	ini_close();
 
