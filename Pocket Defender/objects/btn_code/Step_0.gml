@@ -24,3 +24,12 @@ store.coins += reward
 instance_create_depth(x,y-8,depth-1000,show_reward).myReward = "Rewarded "+string(reward)+" Coins!"
 save_game()
 }
+
+if myResult = "midgar" and store.code_midgar = 0
+{
+reward = 150
+store.code_midgar = 1
+store.coins += reward
+instance_create_depth(x,y-8,depth-1000,show_reward).myReward = "Rewarded "+string(reward)+" Coins!"
+save_game()
+}

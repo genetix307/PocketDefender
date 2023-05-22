@@ -7,6 +7,7 @@ function clear_game() {
 	store.code_payday = 0
 	store.code_happy=0
 	store.code_magic=0
+	store.code_midgar=0
 	//Upgrades
 	store.attack = 10
 	store.reload = 33

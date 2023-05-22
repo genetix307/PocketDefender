@@ -1,7 +1,7 @@
 randomize()
 ads_init()
 
-version="version 1.06"
+version="version 1.07"
 day = 1
 coins = 0
 paused = 0
@@ -18,6 +18,7 @@ gold_chest_cooldown =0
 code_payday = 0
 code_happy=0
 code_magic=0
+code_midgar=0
 
 attack = 10
 reload = 33
